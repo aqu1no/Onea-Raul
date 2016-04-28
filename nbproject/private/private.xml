@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/html/newWork4/index.php</file>
+            <file>file:/var/www/html/newWork4/src/Controller/Question.php</file>
+            <file>file:/var/www/html/newWork4/src/Model/Entity/Abstract_entity.php</file>
+            <file>file:/var/www/html/newWork4/src/Model/Repository/Question.php</file>
+            <file>file:/var/www/html/newWork4/src/Model/Repository/UserRepository.php</file>
+            <file>file:/var/www/html/newWork4/src/Model/Repository/Interface_repository.php</file>
+            <file>file:/var/www/html/newWork4/src/View/User/USER.php</file>
+            <file>file:/var/www/html/newWork4/config.php</file>
+            <file>file:/var/www/html/newWork4/fisier.json</file>
+            <file>file:/var/www/html/newWork4/src/View/User/add.php</file>
+            <file>file:/var/www/html/newWork4/src/View/User/ADMIN.php</file>
+            <file>file:/var/www/html/newWork4/src/Controller/User.php</file>
+            <file>file:/var/www/html/newWork4/src/Controller/Abstract_controller.php</file>
+            <file>file:/var/www/html/newWork4/src/Helper/Myex.php</file>
+            <file>file:/var/www/html/newWork4/autoloader.php</file>
+            <file>file:/var/www/html/newWork4/src/Controller/Authentification.php</file>
+            <file>file:/var/www/html/newWork4/src/Helper/Request.php</file>
+            <file>file:/var/www/html/newWork4/src/Model/Entity/User.php</file>
+            <file>file:/var/www/html/newWork4/src/Model/Entity/Question.php</file>
+        </group>
+    </open-files>
+</project-private>
